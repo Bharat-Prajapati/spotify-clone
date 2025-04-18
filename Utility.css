@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex{
+    display: flex;
+}
+
+.gap{
+    gap: 20px;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.item-center{
+    align-items: center;
+}
+.invert{
+    filter: invert(1);
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+
+.list-style{
+    list-style: none;
+}
+
+.border{
+    border: 2px solid red;
+}
